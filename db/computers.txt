@@ -1,0 +1,96 @@
+##### This is the computers database
+##### Table is as follows:
+##### Name of computer   ^   TEXT 				^ IMAGE 	^ YEAR 			^ Owned ^
+##### 0                      1                   2          3                4          5                   6
+
+Interstate 1160 (1977)^I remember the orange and turn nob controller's. This is the first I can remember and at a very young age I don't really remember what I thought of it. I most likely would of preferred my Lego though.^assets/Computers/Interstate.jpg^1980-1990^No^
+
+Mitsubishi MSX^I cant remember when or how this was brought but I remember playing some games on it round my nan and granddads after school and trying hard to understand what I was doing. I never got very far but I did manage to load up some games from tape somehow. I always liked the arrow keys and the rectangle function keys.^assets/Computers/msx.jpg^1980-1990^No^
+
+Acorn Electron^I remember having this machine for a short time but very little else. It had a cover and that's all I really remember about it. I was given a zx81 but at a young age, didn't know what to do with it. I had no power supply so never had any use, I liked the look as at the time it looked futurist but I believe it was sold not long after so never played it.^assets/Computers/Acorn_Electron.jpg^1980-1990^No^
+
+Psion ii^I never owned it, my mum got this from work and it was very expensive. I played around with it and broken the system so much that the tech support at her work could not fix it and so I was banded from ever touching it again.. whoops'..^assets/Computers/psion-ii.jpg^1980-1990^No^
+
+Donkey Kong LCD^I had one of these now rare LCD games from buying or trading at school. Not sure what ever happened to it.^assets/Computers/dok.png^1980-1990^No^
+
+Race Game LCD^Race LCD game, brought from Argos and played for hours^assets/Computers/ra.jpg^1980-1990^No^
+
+Vic 20^I am not sure how I got this, I remember having this in my bedroom and mostly playing a chess game as that was on cartridge and was super quick to load up before school in the morning.^assets/Computers/vic20.jpg^1980-1990^No^
+
+Nintendo Gameboy^Year 8 in bury. My dad used to play this too. Tetris and Mario were the main games but I had Jurassic park, Alfred chicken and others played JP round my nans and had the light magnifier too.^assets/Computers/Game-Boy.png^1980-1990^No^
+
+Atari STE 520^So many memory's. Dad brought this for midi music and stinberg software. Upgraded to 1mb ram (so was basically a  1040) my fav games at the time turrican 2, robocod, dizzy Treasure island and fastfood, lotus turbo challenge. Amazing machine, in the end I sold it on ebay 15 years or so later. I regret that now..^assets/Computers/Atari_ST.jpg^1980-1990^No^
+
+Gameboy Color^Had one for a while, cant remember it very well apart from it was not backlit so it was really hard to see the screen.^assets/Computers/GBcolor.jpg^1980-1990^No^
+
+SEGA Master System II^Brought new and in the days when toys r us had the carts and showed pictures on the wall. It had alex the kidd built in , had about 20 games. It was good but always remembered that the megadrive was so much better (sonic) but then I played the megadrive and snes round other peoples houses, these were the days you could rent games from backstreet shops.^assets/Computers/Master_System_II.jpg^1980-1990^No^
+
+Amiga CD32^Again I don't know where I got this from, I remember that when I did work experience in London in IBM tech repair I had this round my uncles. Loved it. Superfrog and jetstrike (best game ever) and had loads of other games. Sold to a mate at the time as he also loved jetstrike.^assets/Computers/Amiga-CD32.jpg^1990-2000^No^
+
+Sony Playstation^Got in 1995 for xmas . WOW I remember playing wipeout and was amazed at everything. So many memorys and this was an amazing machine. I do remember having to send it back to sony after about a year as the cd drive packed up (common issue). I had a few of these as I swapped consoles around. I still have a psone(white one)  these days and a collection of the games. My favs were wipeout 2097, ridge racer, twisted metal, worms, rayman, tekken 2^assets/Computers/PSx.jpg^1990-2000^Yes^
+
+Nintendo Gameboy Advanced^After getting rid of the gameboy, got this one as an upgrade. The best thing was the colour and back light!^assets/Computers/GBA.jpg^1990-2000^No^
+
+Nokia NGage^Brought second hand, its a phone and gaming console. Had a couple of games but they were pricy, weren't good to play and you had to turn off the phone and remove the back to put a new game in which sucked. was never easy as a phone either so it went.^assets/Computers/Nokia-NGage.jpg^1990-2000^No^
+
+Nintendo N64^I sold the Playstation to a friend at the time to buy from choices video at £100. I had no money to buy games so rented some for a few weeks. Ended up with quite a few games and had a lot of fun with Mario 64, Goldeneye and Duke Nukem 3D. As another friend had one too, we swapped games and had the fights from multiplayers. This was the best multiplayer experience ever!^assets/Computers/N64.jpg^1990-2000^No^
+
+SEGA Dreamcast^Crazy taxi, the vm card in the controller was amazing and chuchu rocket came with it. Never had loads of games, had a sonic what was ok and played a racing game all the time.^assets/Computers/Dreamcast.jpg^1990-2000^No^
+
+Nintendo GameCube^Had Mario Sunshine and Zelda. Both were great but I didnt have it for very long.^assets/Computers/GameCube.jpg^1990-2000^No^
+
+Sony Playstation 2^Timesplitters 2 was amazing. It was good but never filled the gap the PS 1 had.^assets/Computers/PS2.jpg^1990-2000^Yes^
+
+Namco TV box^Brought to play in the car on the media system installed.^assets/Computers/pac.jpg^2000-2010^No^
+
+Nintendo Wii^Got Christmas the 2nd year it was out as it was sold out from Argos in Chelmsford. Amazing at the time. Wasted so much money in the store and had loads of games for it. Kept for about 4 years then sold on before it lost all value^assets/Computers/wii.jpg^2000-2010^No^
+
+XBOX 360^I remember the first time I saw 720p HD from this. Fallout 3 I lost weeks of my life too. I also purchased a HDD from ebay as mine didn't have one, I waited quite a while and was worried as red ring of death was hitting so many units.^assets/Computers/xbox360.jpg^2000-2010^No^
+
+Nintendo DS Lite^Traded in I think for the DSI as that had wifi and Nintendo shop and so don't remember much on this.^assets/Computers/ds_lite.jpg^2000-2010^No^
+
+Nintendo DSI^DSI online access, but it was poor at the time.^assets/Computers/dsi.jpg^2000-2010^No^
+
+AT Games^Megadrive games, about 20. Is OK but the small screen battery killing are a pain.^assets/Computers/atgam.jpg^2000-2010^Yes^
+
+Ouya^Wow.. That was a flop of a machine for so many reasons. It was an Android 4 unit that had really bad controller and the games were pritty poor too. A few years later, I noticed that they removed the demo/playable test feature and the company changed other things that they said they would never do. I sold it to CEX before it was worth nothing. It was £100 and I think I got £25 back.^assets/Computers/ouya.jpg^2000-2010^No^
+
+Sony PSP^Theme park, jumping flash were the games I always played. UMD were quite cool too but this was near the end of its life as the plug got pulled on it from Sony^assets/Computers/psp.png^2000-2010^No^
+
+Nintendo 3DS^3D! yes this was cool. Just didn't play it much and the games were pricy.^assets/Computers/3ds.png^2010-2020^No^
+
+Nintendo DS Lite^Got given a pink one as it was being binned. Kept and brought a charger and kept it as they are worth so little.^assets/Computers/pink_lite.jpg^2010-2020^Yes^
+
+Nintendo Wii U^It was ok, just charging the controller was a pain and not many games. Had Mario bros and zombie game.^assets/Computers/wiiu.png^2010-2020^No^
+
+Sony Playstation 3^Got one for xmas/bd had over 20-30 games. It was WAY too expensive on launch, loved tomb raider and drake. But the updates/downloads really pissed me off, then to top it off when the PS4 came out, nothing was backwards compatible!^assets/Computers/ps3.jpg^2010-2020^No^
+
+Sony PS One^Picked it up cheap and re-collected my games again. Just love the PS1 although I prefer the older type to look at.^assets/Computers/psone.jpg^2010-2020^Yes^
+
+C64 Mini^Just couldn't get into it. I think its because its a emulator box and just not the real thing. Had a lot of great features but the full size one is now out and I think that look much better with a working keyboard. It just reminded me of a Raspberry Pi in a box. Traded in to CEX for a new GPU for the PC.^assets/Computers/c64.jpg^2010-2020^No^
+
+Nintendo NES Mini^I've now Hacked mine and its not bad. Mario games and micro machines are on it. Got for £25, just the controller leads are very short.^assets/Computers/nes.jpg^2019^Yes^
+
+Nintendo SNES Mini^Again I Hacked it and its amazing. Mario Kart and many others.^assets/Computers/snes.jpg^2019^Yes^
+
+AT Games Megadrive^I know, its AT Games.. They have the worse rep ever. This has 80 games, most are really bad, but about 10 or so are good. At the time its selling for £100, not worth it at all but I managed to ebay win one for £25 and it is worth it for that price. The great thing is that you can put games in the slot but its really let down by its sound chip. Really let down by the sound, it just feels off-key and slow. Also some games do not work 100% when putting the cartridge in. I will keep it and this has lead me to buy a real megadrive..^assets/Computers/atgamesMD.jpg^2021^Yes^
+
+SEGA Megadrive 1^Its a 1990's SEGA MegaDrive ! Love it.. Sound is so much better than the AT Games version and also games work as they should.^assets/Computers/MegaDrive.jpg^2021^Yes^
+
+Sony Playstation Classic^Mini console of the playstation one with 20 games preloaded. Its just a single board computer with linux and and emulator but I do think it is great. I have added extra games and it now sucks up my time as its great fun to play.^assets/Computers/PS_Mini.jpg^2021^Yes^
+
+
+
+
+#########<p>I have had many, many PCs over the years. But these are the ones that I started with and hold a lot of memories for me.</p>
+
+Amstrad 640 laptop^Windows 3.0, DOS 3, LCD and CGA external. I remember that I had to turn on the screen from the other side of the room as the static was so bad. Thinking about it now, clearly it wasn't safe to use...^assets/Computers/Amstrad_PPC512_open.jpg^1990^No^
+
+
+Amstrad 1640 with 20mb hdd^Windows 3.0/3.1 with DOS 3.2. Learnt a lot from this machine and played many great games. 4D Stunt cars, Bio Menace, Keen, Police Quest being a just a few. The 20MB HDD always failed. 5 1/4 inch drive was standard and later installed 3 1/2 inch drive. This had an EGA screen and I think it was about 8mhz CPU. I also created QBASIC games and Batch scripts on this PC.^assets/Computers/PC1640HD20.jpg^1990^No^
+
+Amstrad 486 SX 33^DOS 6.22 and Windows 3.1, First modem 15k installed and had to cut the case. Dogz game and Doom 1 and 2 (but ran slow) VGA Graphics too. The SX chip did not have a maths co-processor and ran at 8mhz, and turbo speed of 33mhz. Remember turbo buttons? they were great...^assets/Computers/PRODPIC-5172.jpg^1990^No^
+
+Raspberry Pi 400^Great all in one unit that I have been waiting for something like this. I havent used it much at the moment so trying to find a use for it.^assets/Computers/Pi400.jpg^2021^No^
+
+

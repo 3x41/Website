@@ -1,0 +1,17 @@
+<div class="container">
+
+<h1>Hello ! Welcome to the website !</h1>
+
+<p>I am Alex and this site was made to demonstrate some of the work that I have created over the years and to show some of the things I am still working on. Please feel free to have a look around.</p>
+
+<p>I work within the IT industry and I am a qualified Computer Software Developer (BSc). I have had many different roles in the past. Including System Administrator, Technical Support, Laptop/PC Repair, Teaching Programming, Programming for different companies, Wiring up networks (Cat5e/Fibre) and network diagnostics to name just a few.</p>
+
+<p>When its not snowing and freezing I repair my own cars, I am a qualified Level 1 in body work and paint repair from college. I have welded exhausts, replaced brakes, changed springs and repaired electrical harnesses to name just a few things that I have done.</p>
+
+<p>In the winter I try to stay in the warm and in more recent years worked on repairing electrical items. I have also just built a 3D printer and mini laser engraver for the little projects I try and work on. </p>
+
+
+<p>I also sometimes upload videos to YouTube. <br></p>
+<p><a href="https://www.youtube.com/user/TheExal81"><img src="assets/icons8-youtube-squared-32.png"> Click here to view the channel.</a></p>
+
+</div>

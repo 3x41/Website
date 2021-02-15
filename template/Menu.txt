@@ -1,0 +1,32 @@
+  <body>
+    <a #top>
+    <div class="w3-sidebar w3-bar-block w3-black" style="width:20%">
+      <div class="w3-black w3-container">
+        <p class="w3-bar-item">3x41.uk</>
+      </div>
+
+      <div class="w3-container w3-dark-grey">
+        <h4>Menu</h4>
+      </div>
+
+      <div class="w3-black w3-container">
+	  <a href="index.html" class="w3-bar-item w3-button w3-hover-green">Home</a>
+        <a href="Applications.html" class="w3-bar-item w3-button w3-hover-blue">Applications</a>
+        <a href="Computers.html" class="w3-bar-item w3-button w3-hover-blue">Computers</a>
+        <a href="Games.html" class="w3-bar-item w3-button w3-hover-blue">Games</a>
+        <a href="Music.html" class="w3-bar-item w3-button w3-hover-blue">Music</a>
+        <a href="Projects.html" class="w3-bar-item w3-button w3-hover-blue">Mini Projects</a>
+        <!--
+			<a href="#" class="w3-bar-item w3-button w3-hover-blue">Cars (Comming Soon)</a>
+			<a href="#" class="w3-bar-item w3-button w3-hover-blue">Engraving (Comming Soon)</a>
+			<a href="#" class="w3-bar-item w3-button w3-hover-blue">3D Printing (Comming Soon)</a>
+		-->
+        <BR><BR><BR>
+      </div>
+
+      <div class="w3-container w3-dark-grey">
+        <h6>© 3x41.uk (2017-2021)</h6>
+      </div>
+    </div>
+
+    <div style="margin-left:25%" class="w3-padding-large">

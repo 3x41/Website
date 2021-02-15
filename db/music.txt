@@ -1,0 +1,13 @@
+##### This is the music database
+##### Table is as follows:
+##### Name of Album   ^ IMAGE 	^ Tracks ^ Youtube Link ^
+##### 0                 1            2          3            
+
+2017 Album^assets/Music/Music2017.png^Tracks: 4 Dings, Bass It, Dubbing It, PopStyle, The One, Good Times^https://www.youtube.com/watch?v=2ifXU5nN18U&list=PLVjbU4MsFhg_lngHYhrAzV-TvP4ubhyio^
+
+2016 Album^assets/Music/Music2016.png^Tracks: Worm Bait, Laser Drill, Church Take, Carm Before, Dance Jam Q1, The Evil, Night Trap, Summer Mix 1, Rap is #@*!^https://www.youtube.com/watch?v=SgT8WjSaBsI&list=PLVjbU4MsFhg-P1VEwKetEBA3A4XyDf1u1^
+
+2015 Album^assets/Music/Music.png^Tracks: Whatsup, UK Garage Beat, House Track 1, Holiday Riff, Hip Track 1, Hip Track 2, Dub Track 1, Dub Track 2, Chill Out,64 Correct Chippy^https://www.youtube.com/watch?v=rcQqFJr_-hk&list=PLVjbU4MsFhg8Sf0-MUUO-o4wyH_sOyjw3^
+
+2005/2006 Album^assets/Music/Music.png^Tracks: Something*, UK Garage Track 1, UK Garage Track 2, UK Garage Track 3, Famous G3 (JC Website in 2005), Forever Together, Carm^https://www.youtube.com/watch?v=fpTYFYgW7e0&list=PLVjbU4MsFhg9gzASvJ0uQYoYYbkrapRac^
+

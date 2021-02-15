@@ -1,0 +1,29 @@
+##### This is the Projects database
+##### Table is as follows:
+##### Name of Project  ^ Year ^ IMAGE1 	^ IMAGE2 ^ Info ^ Link ^
+##### 0                 1           2       3      4     5 
+
+Mini Engineering Project^2021^assets/Projects/buggy1.jpg^assets/Projects/buggy2.jpg^If your ever shopping for sun/rain covers for a wheelchair your be shocked at the amount that they can cost. I needed to get one for this chair but it would of cost £200 for the cover. Yes that much. The last chair had a £160 cover and the only difference is that they make the bracket different so nothing is changable. I brought a £12 metal bar. Cut, drilled and smoothed the rough edges on it to fit and now there is a cover that works on this wheelchair. Very happy with the result, if it wasnt so cold outside I would of made it even better but that can wait for the summer now.^
+
+15 inch TV Repair^2021^assets/Projects/15intv.jpg^assets/Projects/TV_2.jpg^Brought as a xmas present but found that everytime you turned it on, the lights on the DVD flickered and the backlight took ages to work if ever. Repaired 2 caps on the powerboard costing £2.67 and that seems to have fixed the issue.^
+
+PS2 Repair^2020^assets/Projects/PS2_1.jpg^assets/Projects/PS2_2.jpg^Wanting a PS2 again, I won one for £2.20! however the seller never said that the motherboard was faulty, so there was nothing further I could do. So I brought another one for £17 that had a Read-Disc-Error, after fixing it, its now fully working unit again.^
+
+Food Mixer^2020^assets/Projects/Mixer_1.jpg^assets/Projects/Mixer_2.jpg^Being stuck at home in lock-down, I was just looking at some parts I had laying around and ended up creating a small battery powered mixer. This is very simple and cost nothing to make. I started with a 1.5v battery but had to end up with a 9v battery to get more power. There is a variable resister that can be adjusted too.^
+
+Repairs^2020^assets/Projects/Repairs_1.png^assets/Projects/Repairs_2.jpg^I have slowly been starting to repair more things this year. I started off with repairing components on a power supply built in on a 22 inch monitor. This cost me about £2 in parts from a non working display to a fully working one.The screen was free as it was to be scrapped due to not working. Internal cable repair on a UV Nail Dryer as it was poorly made. Its now all working again and still going months after the repair.^
+
+Mini Projects Part 1^2020^assets/Projects/Elec_2020_3.jpg^assets/Projects/Elec_2020_4.jpg^Mini Projects were created from kits ordered from China. These were a challenge as none of them came with any instructions. The rotating windmill light project does not work correctly and this is down to a fault on the chip.^
+
+Mini Projects Part 2^2020^assets/Projects/Elec_2020_1.jpg^assets/Projects/Elec_2020_2.jpg^The sound maker works and is very loud. The 5x5 LED Matrix was created from scratch and was a good learning project. All 4 Mini projects together cost under £10.^
+
+
+Ardunio Computer^2019^assets/Projects/2019_ArduinoPC_1.jpg^assets/Projects/2019_ArduinoPC_5.jpg^A mini personal computer made from 2 ardunios. This was built from a guide on the internet that was just an interesting project to see how it works. One Ardunio reads the input from the PS2 keyboard and also runs Ardunio Basic, then that sends the output to the second Ardunio that just handles the video output. Power feed goes into the VGA one then shared to the other. The display is not 100% working as it not clean, I tried many things but come to the concusion that its the Ardunio nano itself is not running right. The project cost £6 for the two Ardunio nanos, and the rest was on buying the sockets and board, in total it was under £10 to build.<BR><BR>Although I cant see any use for it, it was more about the fun of building it than the end result.^
+
+DVD CNC^2017^assets/Projects/1.jpg^assets/Projects/4.jpg^Intrested in the tinkernut website on creating a 3D printer, the first part was to create and understand a CNC setup. This could be made out of old computer parts including 3 DVD drives, a PC power supply, some steper motor controllers and an uno board. Costing a hugh £15 to build, it was a very interesting project to create it. The main idea behind this was to build the CNC setup, then add a 3D pen to the setup and make it into a 3D printer.^
+
+PC - Rad One^2017^assets/Projects/Yellow3.jpg^assets/Projects/Yellow2.jpg^Project RAD ONE was first thought of as a radioactive design. So knowing that I wanted a yellow theme and to Projects paint plastic, I started with making the PC work with an old GTX graphics card. Once tested, it was time to re-build the graphics card and paint it. I also striped everything out the case and painted that too. Adding cable management and trying to tidy a case that was not a good design to show off was a challenge. The side panel was going to have clear plastic but I ran out of it and changed my mind when cutting the case. Two air holes were created and then tubing put around the edging. The Power cables were modified and changed to lengthen and remove adapters and the RGB lighting was USB but that was removed and wired into the power supply to keep it tidy and so that everything was lit up when turning on the PC. Overall I am happy with the paint and plastic but the cabling could of been better.^
+
+
+
+
