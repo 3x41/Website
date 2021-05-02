@@ -3,6 +3,8 @@
 ##### Name of Project  ^ Year ^ IMAGE1 	^ IMAGE2 ^ Info ^ Link ^
 ##### 0                 1           2       3      4     5 
 
+Audio Splitter^2021^assets/Projects/AudioSplit.jpg^^Purchased for a few pounds, I cut it in half and rewired as I wanted to use this on my DJ deck that splits the stereo plug left and right channels to mono outputs on each line. This means that you can have your headphones on the left channel and the speakers on the right channel. I should of got one in the box but didnt and nothing cheap on ebay to do the same job.
+
 Mini Engineering Project^2021^assets/Projects/buggy1.jpg^assets/Projects/buggy2.jpg^If your ever shopping for sun/rain covers for a wheelchair your be shocked at the amount that they can cost. I needed to get one for this chair but it would of cost £200 for the cover. Yes that much. The last chair had a £160 cover and the only difference is that they make the bracket different so nothing is changable. I brought a £12 metal bar. Cut, drilled and smoothed the rough edges on it to fit and now there is a cover that works on this wheelchair. Very happy with the result, if it wasnt so cold outside I would of made it even better but that can wait for the summer now.^
 
 15 inch TV Repair^2021^assets/Projects/15intv.jpg^assets/Projects/TV_2.jpg^Brought as a xmas present but found that everytime you turned it on, the lights on the DVD flickered and the backlight took ages to work if ever. Repaired 2 caps on the powerboard costing £2.67 and that seems to have fixed the issue.^

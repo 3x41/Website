@@ -73,13 +73,19 @@ Nintendo NES Mini^I've now Hacked mine and its not bad. Mario games and micro ma
 
 Nintendo SNES Mini^Again I Hacked it and its amazing. Mario Kart and many others.^assets/Computers/snes.jpg^2019^Yes^
 
+SUP Handheld^Cost about £10 and has loads of 8 bit games (mostly NES) on it. It also has a controller that you can plug into it and have 2 players at the same time. It can output to a TV but this hasnt worked for me.^assets/Computers/Sup.jpg^2020^Yes^
+
 AT Games Megadrive^I know, its AT Games.. They have the worse rep ever. This has 80 games, most are really bad, but about 10 or so are good. At the time its selling for £100, not worth it at all but I managed to ebay win one for £25 and it is worth it for that price. The great thing is that you can put games in the slot but its really let down by its sound chip. Really let down by the sound, it just feels off-key and slow. Also some games do not work 100% when putting the cartridge in. I will keep it and this has lead me to buy a real megadrive..^assets/Computers/atgamesMD.jpg^2021^Yes^
 
 SEGA Megadrive 1^Its a 1990's SEGA MegaDrive ! Love it.. Sound is so much better than the AT Games version and also games work as they should.^assets/Computers/MegaDrive.jpg^2021^Yes^
 
 Sony Playstation Classic^Mini console of the playstation one with 20 games preloaded. Its just a single board computer with linux and and emulator but I do think it is great. I have added extra games and it now sucks up my time as its great fun to play.^assets/Computers/PS_Mini.jpg^2021^Yes^
 
+Atari Handheld^Brought as I fancyed a Atari 2600 and this was the cheapest way of doing that. I was disapointed by the games and so havent really played it but I think thats just because I perfer the 8bit and 16bit games.^assets/Computers/atari_hand.jpg^2021^Yes^
 
+PC Engine Mini^Just got it so will write more later.^assets/Computers/GFX.jpg^2021^Yes^
+
+Haynes Block Game^Very intresting, a simple build, it runs a arduino chip at its core with a led matrix. I will be looking more at this later.^assets/Computers/Haynes.png^2021^Yes^ 
 
 
 #########<p>I have had many, many PCs over the years. But these are the ones that I started with and hold a lot of memories for me.</p>
@@ -91,6 +97,14 @@ Amstrad 1640 with 20mb hdd^Windows 3.0/3.1 with DOS 3.2. Learnt a lot from this 
 
 Amstrad 486 SX 33^DOS 6.22 and Windows 3.1, First modem 15k installed and had to cut the case. Dogz game and Doom 1 and 2 (but ran slow) VGA Graphics too. The SX chip did not have a maths co-processor and ran at 8mhz, and turbo speed of 33mhz. Remember turbo buttons? they were great...^assets/Computers/PRODPIC-5172.jpg^1990^No^
 
-Raspberry Pi 400^Great all in one unit that I have been waiting for something like this. I havent used it much at the moment so trying to find a use for it.^assets/Computers/Pi400.jpg^2021^No^
+Raspberry Pi 1^I have two of these, one being a 256mb Ram version and the other a 512mb version. These dont get used now but were used as a webserver for a year.^assets/Computers/Pi1.png^2012^Yes^
 
+Raspberry Pi Zero^This is the none WIFI version. Dont use it though.^^^Yes^
+
+BBC Micro Bit^Not used only quickly played with.^^^Yes^
+
+
+Raspberry Pi 400^Great all in one unit that I have been waiting for something like this. I havent used it much at the moment so trying to find a use for it.^assets/Computers/Pi400.jpg^2021^Yes^
+
+Raspberry Pi 4 (4GB)^In a Argon One Case. Just liked the case but this will most likely be turned into a retro gaming unit.^assets/Computers/Pi4.png^2021^Yes^
 
