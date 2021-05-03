@@ -99,9 +99,9 @@ Amstrad 486 SX 33^DOS 6.22 and Windows 3.1, First modem 15k installed and had to
 
 Raspberry Pi 1^I have two of these, one being a 256mb Ram version and the other a 512mb version. These dont get used now but were used as a webserver for a year.^assets/Computers/Pi1.png^2012^Yes^
 
-Raspberry Pi Zero^This is the none WIFI version. Dont use it though.^^^Yes^
+Raspberry Pi Zero^This is the none WIFI version. Dont use it though.^assets/Computers/PiZero.jpg^?^Yes^
 
-BBC Micro Bit^Not used only quickly played with.^^^Yes^
+BBC Micro Bit^Not used only quickly played with but uploading the code is so easy.^assets/Computers/BBC.jpg^?^Yes^
 
 
 Raspberry Pi 400^Great all in one unit that I have been waiting for something like this. I havent used it much at the moment so trying to find a use for it.^assets/Computers/Pi400.jpg^2021^Yes^

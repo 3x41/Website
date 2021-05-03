@@ -291,18 +291,18 @@
 <i>I have two of these, one being a 256mb Ram version and the other a 512mb version. These dont get used now but were used as a webserver for a year.</i>
 </td></tr></table>
 
-<table><tr><td><img src="" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+<table><tr><td><img src="assets/Computers/PiZero.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
 </td><td class="w3-padding-large">
-<h3>Raspberry Pi Zero ()</h3>
+<h3>Raspberry Pi Zero (?)</h3>
 <p class="w3-tag">Currently Own</p><br>
 <i>This is the none WIFI version. Dont use it though.</i>
 </td></tr></table>
 
-<table><tr><td><img src="" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+<table><tr><td><img src="assets/Computers/BBC.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
 </td><td class="w3-padding-large">
-<h3>BBC Micro Bit ()</h3>
+<h3>BBC Micro Bit (?)</h3>
 <p class="w3-tag">Currently Own</p><br>
-<i>Not used only quickly played with.</i>
+<i>Not used only quickly played with but uploading the code is so easy.</i>
 </td></tr></table>
 
 <table><tr><td><img src="assets/Computers/Pi400.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
