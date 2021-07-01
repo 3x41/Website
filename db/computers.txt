@@ -87,6 +87,9 @@ PC Engine Mini^Just got it so will write more later.^assets/Computers/GFX.jpg^20
 
 Haynes Block Game^Very intresting, a simple build, it runs a arduino chip at its core with a led matrix. I will be looking more at this later.^assets/Computers/Haynes.png^2021^Yes^ 
 
+PlayStation 4^Its taken a while, but I now own one.^assets/Computers/ps4.jpeg^2021^Yes^ 
+
+Evercade Handheld^What a classic gaming console and not all the carts are available yet.^assets/Computers/ev.jpeg^2021^Yes^ 
 
 #########<p>I have had many, many PCs over the years. But these are the ones that I started with and hold a lot of memories for me.</p>
 

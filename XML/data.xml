@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="template.xsl" type="text/xsl" ?>
+
+<yey>
+	<computers>
+		<year>1988</year>
+		<namee>Atari</namee>
+		<info>Great System</info>
+	</computers>
+	
+	<computers>
+		<year>2000</year>
+		<namee>Plop</namee>
+		<info>Bad System</info>
+	</computers>
+</yey>
