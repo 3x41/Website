@@ -57,6 +57,8 @@ Ouya^Wow.. That was a flop of a machine for so many reasons. It was an Android 4
 
 Sony PSP^Theme park, jumping flash were the games I always played. UMD were quite cool too but this was near the end of its life as the plug got pulled on it from Sony^assets/Computers/psp.png^2000-2010^No^
 
+Logic3^A handheld machine with simple games. Played a lot of battleships on this.^assets/Computers/Logic3.jpg^2000-2010^Yes^
+
 Nintendo 3DS^3D! yes this was cool. Just didn't play it much and the games were pricy.^assets/Computers/3ds.png^2010-2020^No^
 
 Nintendo DS Lite^Got given a pink one as it was being binned. Kept and brought a charger and kept it as they are worth so little.^assets/Computers/pink_lite.jpg^2010-2020^Yes^
@@ -111,3 +113,6 @@ Raspberry Pi 400^Great all in one unit that I have been waiting for something li
 
 Raspberry Pi 4 (4GB)^In a Argon One Case. Just liked the case but this will most likely be turned into a retro gaming unit.^assets/Computers/Pi4.png^2021^Yes^
 
+Pentium 2 (Restore Project)^Currently built now and with extra cards including a sound card Graphics card and network card. The plastic has now been restored to bright white and I did have a quick play of FreeDoom (FreeDOS OS Installed). Its been in storage for over a year now and I will be looking over it again soon.^assets/Computers/Pen2.jpg^2019^Yes^
+
+ 

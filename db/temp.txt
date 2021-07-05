@@ -165,6 +165,13 @@
 <i>Theme park, jumping flash were the games I always played. UMD were quite cool too but this was near the end of its life as the plug got pulled on it from Sony</i>
 </td></tr></table>
 
+<table><tr><td><img src="assets/Computers/Logic3.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Logic3 (2000-2010)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>A handheld machine with simple games. Played a lot of battleships on this.</i>
+</td></tr></table>
+
 <table><tr><td><img src="assets/Computers/3ds.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
 </td><td class="w3-padding-large">
 <h3>Nintendo 3DS (2010-2020)</h3>
@@ -331,5 +338,12 @@
 <h3>Raspberry Pi 4 (4GB) (2021)</h3>
 <p class="w3-tag">Currently Own</p><br>
 <i>In a Argon One Case. Just liked the case but this will most likely be turned into a retro gaming unit.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Pen2.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Pentium 2 (Restore Project) (2019)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Currently built now and with extra cards including a sound card Graphics card and network card. The plastic has now been restored to bright white and I did have a quick play of FreeDoom (FreeDOS OS Installed). Its been in storage for over a year now and I will be looking over it again soon.</i>
 </td></tr></table>
 
