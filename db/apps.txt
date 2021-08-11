@@ -2,6 +2,9 @@
 ##### Table is as follows:
 ##### Name of Program  ^ Coded in ^ IMAGE 	^ Info ^ Owned ^ Link ^
 ##### 0                 1            2          3      4     5 
+Windows Script Service^VB.net^assets/Apps/ScriptService.png^A windows service to run a batch script file every 5 mins as the windows task scheduler was just not working correctly. Its been many years since I last created a windows service so it took a little time to create.^No^
+
+File Watcher^VB.net^assets/Apps/Filewatcher.png^A small program that reads a config file and lists the amount of files found in the folders. It refreshes every 30 seconds and the idea is so that you can monitor many folders for files being put in them at once.^No^
 
 GZ Doom Launcher^VB.net^assets/Apps/DoomLauncher.png^A simple program that allows you to select multiple WAD and PK3 files to run with GZdoom. You can then save the selected files as presets so that you can run the same setup at a later date.^No^
 

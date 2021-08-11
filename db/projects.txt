@@ -2,6 +2,9 @@
 ##### Table is as follows:
 ##### Name of Project  ^ Year ^ IMAGE1 	^ IMAGE2 ^ Info ^ Link ^
 ##### 0                 1           2       3      4     5 
+Window Tinting^2021^assets/Projects/Tint1.jpg^assets/Projects/Tint2.jpg^Costing £7 for a 3m roll of mirror window tint. I decided to try tinting the work shed windows to help with the heat and sunlight. I did these quickly and the film was a little too cheap but it did work and has made a big difference already. This was the first time tinting clear plastic instead of glass.^
+
+Networking^2021^assets/Projects/Net2.jpg^assets/Projects/Net1.jpg^Costing £2 for a used 8 port switch and £15 of 50m outside cat6 cable (Using 41m in the end) the work shed is now hardwired up to the internet. Taking about 2 hours to install around and though the house it has made such a difference.^
 
 Work Bench^2021^assets/Projects/ProjectBed1.jpg^assets/Projects/ProjectBed2.jpg^Costing £0, I'm happy with this. Made out of a bed being throwen away, I needed something the same height as my desk and that I could fit the 3D printer on. Just a circular saw and screws and this is the result. Coud do with a little sanding down and paint later.^
 
