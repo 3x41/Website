@@ -220,7 +220,7 @@ ReadFile() #Games
 ReadFileProjects()
 ReadFileApps()
 ReadFileMusic()
-ReadFileComputers()
+
 MergeTemplateHome("index")  
 
 
