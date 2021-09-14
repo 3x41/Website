@@ -1,31 +1,370 @@
-<h1>Music</h1>
-<p>Some of the music created can be found here and on youtube. Most was created using pre-made loops etc, however all new music from 2017 onwards (Currently still working on) will be made from scratch and no pre-made loops/pattens.</p>
-<p>All tracks are free to use for anything including youtube and games. All I ask is to just give me credit and would be nice to know what they are used for.</p>
-<table><tr><td><img src="assets/Music/Music2017.png" class="w3-hover-opacity w3-border" alt="Image">
+<h1>Computers</h1>
+<p>My brief history of first computers that I can remember, Many PCs are not here after the year 2000 as they swapped and changed so often. The PCs listed are the ones that hold the most memorys.</p>
+<table><tr><td><img src="assets/Computers/Interstate.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
 </td><td class="w3-padding-large">
-<h3>2017 Album</h3>
-<i>Tracks: 4 Dings, Bass It, Dubbing It, PopStyle, The One, Good Times</i>
-<br><div class="w3-tag w3-red"><a href="https://www.youtube.com/watch?v=2ifXU5nN18U&list=PLVjbU4MsFhg_lngHYhrAzV-TvP4ubhyio">YouTube Link</a></div>
+<h3>Interstate 1160 (1977) (1980-1990)</h3>
+<i>I remember the orange and turn nob controller's. This is the first I can remember and at a very young age I don't really remember what I thought of it. I most likely would of preferred my Lego though.</i>
 </td></tr></table>
 
-<table><tr><td><img src="assets/Music/Music2016.png" class="w3-hover-opacity w3-border" alt="Image">
+<table><tr><td><img src="assets/Computers/msx.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
 </td><td class="w3-padding-large">
-<h3>2016 Album</h3>
-<i>Tracks: Worm Bait, Laser Drill, Church Take, Carm Before, Dance Jam Q1, The Evil, Night Trap, Summer Mix 1, Rap is #@*!</i>
-<br><div class="w3-tag w3-red"><a href="https://www.youtube.com/watch?v=SgT8WjSaBsI&list=PLVjbU4MsFhg-P1VEwKetEBA3A4XyDf1u1">YouTube Link</a></div>
+<h3>Mitsubishi MSX (1980-1990)</h3>
+<i>I cant remember when or how this was brought but I remember playing some games on it round my nan and granddads after school and trying hard to understand what I was doing. I never got very far but I did manage to load up some games from tape somehow. I always liked the arrow keys and the rectangle function keys.</i>
 </td></tr></table>
 
-<table><tr><td><img src="assets/Music/Music.png" class="w3-hover-opacity w3-border" alt="Image">
+<table><tr><td><img src="assets/Computers/Acorn_Electron.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
 </td><td class="w3-padding-large">
-<h3>2015 Album</h3>
-<i>Tracks: Whatsup, UK Garage Beat, House Track 1, Holiday Riff, Hip Track 1, Hip Track 2, Dub Track 1, Dub Track 2, Chill Out,64 Correct Chippy</i>
-<br><div class="w3-tag w3-red"><a href="https://www.youtube.com/watch?v=rcQqFJr_-hk&list=PLVjbU4MsFhg8Sf0-MUUO-o4wyH_sOyjw3">YouTube Link</a></div>
+<h3>Acorn Electron (1980-1990)</h3>
+<i>I remember having this machine for a short time but very little else. It had a cover and that's all I really remember about it. I was given a zx81 but at a young age, didn't know what to do with it. I had no power supply so never had any use, I liked the look as at the time it looked futurist but I believe it was sold not long after so never played it.</i>
 </td></tr></table>
 
-<table><tr><td><img src="assets/Music/Music.png" class="w3-hover-opacity w3-border" alt="Image">
+<table><tr><td><img src="assets/Computers/psion-ii.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
 </td><td class="w3-padding-large">
-<h3>2005/2006 Album</h3>
-<i>Tracks: Something*, UK Garage Track 1, UK Garage Track 2, UK Garage Track 3, Famous G3 (JC Website in 2005), Forever Together, Carm</i>
-<br><div class="w3-tag w3-red"><a href="https://www.youtube.com/watch?v=fpTYFYgW7e0&list=PLVjbU4MsFhg9gzASvJ0uQYoYYbkrapRac">YouTube Link</a></div>
+<h3>Psion ii (1980-1990)</h3>
+<i>I never owned it, my mum got this from work and it was very expensive. I played around with it and broken the system so much that the tech support at her work could not fix it and so I was banded from ever touching it again.. whoops'..</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/dok.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Donkey Kong LCD (1980-1990)</h3>
+<i>I had one of these now rare LCD games from buying or trading at school. Not sure what ever happened to it.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/ra.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Race Game LCD (1980-1990)</h3>
+<i>Race LCD game, brought from Argos and played for hours</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/vic20.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Vic 20 (1980-1990)</h3>
+<i>I am not sure how I got this, I remember having this in my bedroom and mostly playing a chess game as that was on cartridge and was super quick to load up before school in the morning.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Game-Boy.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo Gameboy (1980-1990)</h3>
+<i>Year 8 in bury. My dad used to play this too. Tetris and Mario were the main games but I had Jurassic park, Alfred chicken and others played JP round my nans and had the light magnifier too.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Atari_ST.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Atari STE 520 (1980-1990)</h3>
+<i>So many memory's. Dad brought this for midi music and stinberg software. Upgraded to 1mb ram (so was basically a  1040) my fav games at the time turrican 2, robocod, dizzy Treasure island and fastfood, lotus turbo challenge. Amazing machine, in the end I sold it on ebay 15 years or so later. I regret that now..</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/GBcolor.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Gameboy Color (1980-1990)</h3>
+<i>Had one for a while, cant remember it very well apart from it was not backlit so it was really hard to see the screen.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Master_System_II.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>SEGA Master System II (1980-1990)</h3>
+<i>Brought new and in the days when toys r us had the carts and showed pictures on the wall. It had alex the kidd built in , had about 20 games. It was good but always remembered that the megadrive was so much better (sonic) but then I played the megadrive and snes round other peoples houses, these were the days you could rent games from backstreet shops.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Amiga-CD32.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Amiga CD32 (1990-2000)</h3>
+<i>Again I don't know where I got this from, I remember that when I did work experience in London in IBM tech repair I had this round my uncles. Loved it. Superfrog and jetstrike (best game ever) and had loads of other games. Sold to a mate at the time as he also loved jetstrike.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/PSx.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Sony Playstation (1990-2000)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Got in 1995 for xmas . WOW I remember playing wipeout and was amazed at everything. So many memorys and this was an amazing machine. I do remember having to send it back to sony after about a year as the cd drive packed up (common issue). I had a few of these as I swapped consoles around. I still have a psone(white one)  these days and a collection of the games. My favs were wipeout 2097, ridge racer, twisted metal, worms, rayman, tekken 2</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/GBA.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo Gameboy Advanced (1990-2000)</h3>
+<i>After getting rid of the gameboy, got this one as an upgrade. The best thing was the colour and back light!</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Nokia-NGage.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nokia NGage (1990-2000)</h3>
+<i>Brought second hand, its a phone and gaming console. Had a couple of games but they were pricy, weren't good to play and you had to turn off the phone and remove the back to put a new game in which sucked. was never easy as a phone either so it went.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/N64.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo N64 (1990-2000)</h3>
+<i>I sold the Playstation to a friend at the time to buy from choices video at £100. I had no money to buy games so rented some for a few weeks. Ended up with quite a few games and had a lot of fun with Mario 64, Goldeneye and Duke Nukem 3D. As another friend had one too, we swapped games and had the fights from multiplayers. This was the best multiplayer experience ever!</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Dreamcast.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>SEGA Dreamcast (1990-2000)</h3>
+<i>Crazy taxi, the vm card in the controller was amazing and chuchu rocket came with it. Never had loads of games, had a sonic what was ok and played a racing game all the time.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/GameCube.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo GameCube (1990-2000)</h3>
+<i>Had Mario Sunshine and Zelda. Both were great but I didnt have it for very long.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/PS2.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Sony Playstation 2 (1990-2000)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Timesplitters 2 was amazing. It was good but never filled the gap the PS 1 had.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/pac.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Namco TV box (2000-2010)</h3>
+<i>Brought to play in the car on the media system installed.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/wii.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo Wii (2000-2010)</h3>
+<i>Got Christmas the 2nd year it was out as it was sold out from Argos in Chelmsford. Amazing at the time. Wasted so much money in the store and had loads of games for it. Kept for about 4 years then sold on before it lost all value</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/xbox360.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>XBOX 360 (2000-2010)</h3>
+<i>I remember the first time I saw 720p HD from this. Fallout 3 I lost weeks of my life too. I also purchased a HDD from ebay as mine didn't have one, I waited quite a while and was worried as red ring of death was hitting so many units.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/ds_lite.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo DS Lite (2000-2010)</h3>
+<i>Traded in I think for the DSI as that had wifi and Nintendo shop and so don't remember much on this.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/dsi.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo DSI (2000-2010)</h3>
+<i>DSI online access, but it was poor at the time.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/atgam.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>AT Games (2000-2010)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Megadrive games, about 20. Is OK but the small screen battery killing are a pain.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/ouya.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Ouya (2000-2010)</h3>
+<i>Wow.. That was a flop of a machine for so many reasons. It was an Android 4 unit that had really bad controller and the games were pritty poor too. A few years later, I noticed that they removed the demo/playable test feature and the company changed other things that they said they would never do. I sold it to CEX before it was worth nothing. It was £100 and I think I got £25 back.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/psp.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Sony PSP (2000-2010)</h3>
+<i>Theme park, jumping flash were the games I always played. UMD were quite cool too but this was near the end of its life as the plug got pulled on it from Sony</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Logic3.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Logic3 (2000-2010)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>A handheld machine with simple games. Played a lot of battleships on this.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/3ds.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo 3DS (2010-2020)</h3>
+<i>3D! yes this was cool. Just didn't play it much and the games were pricy.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/pink_lite.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo DS Lite (2010-2020)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Got given a pink one as it was being binned. Kept and brought a charger and kept it as they are worth so little.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/wiiu.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo Wii U (2010-2020)</h3>
+<i>It was ok, just charging the controller was a pain and not many games. Had Mario bros and zombie game.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/ps3.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Sony Playstation 3 (2010-2020)</h3>
+<i>Got one for xmas/bd had over 20-30 games. It was WAY too expensive on launch, loved tomb raider and drake. But the updates/downloads really pissed me off, then to top it off when the PS4 came out, nothing was backwards compatible!</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/psone.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Sony PS One (2010-2020)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Picked it up cheap and re-collected my games again. Just love the PS1 although I prefer the older type to look at.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/c64.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>C64 Mini (2010-2020)</h3>
+<i>Just couldn't get into it. I think its because its a emulator box and just not the real thing. Had a lot of great features but the full size one is now out and I think that look much better with a working keyboard. It just reminded me of a Raspberry Pi in a box. Traded in to CEX for a new GPU for the PC.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/nes.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo NES Mini (2019)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>I've now Hacked mine and its not bad. Mario games and micro machines are on it. Got for £25, just the controller leads are very short.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/snes.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Nintendo SNES Mini (2019)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Again I Hacked it and its amazing. Mario Kart and many others.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Sup.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>SUP Handheld (2020)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Cost about £10 and has loads of 8 bit games (mostly NES) on it. It also has a controller that you can plug into it and have 2 players at the same time. It can output to a TV but this hasnt worked for me.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/atgamesMD.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>AT Games Megadrive (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>I know, its AT Games.. They have the worse rep ever. This has 80 games, most are really bad, but about 10 or so are good. At the time its selling for £100, not worth it at all but I managed to ebay win one for £25 and it is worth it for that price. The great thing is that you can put games in the slot but its really let down by its sound chip. Really let down by the sound, it just feels off-key and slow. Also some games do not work 100% when putting the cartridge in. I will keep it and this has lead me to buy a real megadrive..</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/MegaDrive.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>SEGA Megadrive 1 (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Its a 1990's SEGA MegaDrive ! Love it.. Sound is so much better than the AT Games version and also games work as they should.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/PS_Mini.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Sony Playstation Classic (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Mini console of the playstation one with 20 games preloaded. Its just a single board computer with linux and and emulator but I do think it is great. I have added extra games and it now sucks up my time as its great fun to play.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/atari_hand.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Atari Handheld (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Brought as I fancyed a Atari 2600 and this was the cheapest way of doing that. I was disapointed by the games and so havent really played it but I think thats just because I perfer the 8bit and 16bit games.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/GFX.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>PC Engine Mini (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Just got it so will write more later.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Haynes.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Haynes Block Game (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Very intresting, a simple build, it runs a arduino chip at its core with a led matrix. I will be looking more at this later.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/ps4.jpeg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>PlayStation 4 (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Its taken a while, but I now own one.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/ev.jpeg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Evercade Handheld (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>A good way to play classic games, its nice that there are new releases happening at the moment. Upscales nicely when plugged into the TV.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/intelliv.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Intellivision (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Plug and Play 25 game unit that runs on batterys. Buying the orginal would cost too much and this is a great alternative. The games are ok.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/retro.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Retro Game (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Brought to see what it was about, costing about £5, this would of been great 20 years ago, it hasnt dated well at all. Still its intresting as its so small and has quite a few games on it.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/n64_2.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>N64 (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Had to re-collect and have about 20 games for it. Great system and great fun still. I cant get over how fast loading time is with a cartridge system.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Amstrad_PPC512_open.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Amstrad 640 laptop (1990)</h3>
+<i>Windows 3.0, DOS 3, LCD and CGA external. I remember that I had to turn on the screen from the other side of the room as the static was so bad. Thinking about it now, clearly it wasn't safe to use...</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/PC1640HD20.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Amstrad 1640 with 20mb hdd (1990)</h3>
+<i>Windows 3.0/3.1 with DOS 3.2. Learnt a lot from this machine and played many great games. 4D Stunt cars, Bio Menace, Keen, Police Quest being a just a few. The 20MB HDD always failed. 5 1/4 inch drive was standard and later installed 3 1/2 inch drive. This had an EGA screen and I think it was about 8mhz CPU. I also created QBASIC games and Batch scripts on this PC.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/PRODPIC-5172.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Amstrad 486 SX 33 (1990)</h3>
+<i>DOS 6.22 and Windows 3.1, First modem 15k installed and had to cut the case. Dogz game and Doom 1 and 2 (but ran slow) VGA Graphics too. The SX chip did not have a maths co-processor and ran at 8mhz, and turbo speed of 33mhz. Remember turbo buttons? they were great...</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Pi1.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Raspberry Pi 1 (2012)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>I have two of these, one being a 256mb Ram version and the other a 512mb version. These dont get used now but were used as a webserver for a year.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/PiZero.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Raspberry Pi Zero (?)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>This is the none WIFI version. Dont use it though.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/BBC.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>BBC Micro Bit (?)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Not used only quickly played with but uploading the code is so easy.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Pi400.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Raspberry Pi 400 (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Great all in one unit that I have been waiting for something like this. I havent used it much at the moment so trying to find a use for it.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Pi4.png" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Raspberry Pi 4 (4GB) (2021)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>In a Argon One Case. Just liked the case but this will most likely be turned into a retro gaming unit.</i>
+</td></tr></table>
+
+<table><tr><td><img src="assets/Computers/Pen2.jpg" class="w3-circle w3-grayscale-max w3-hover-opacity w3-border" alt="Image">
+</td><td class="w3-padding-large">
+<h3>Pentium 2 (Restore Project) (2019)</h3>
+<p class="w3-tag">Currently Own</p><br>
+<i>Currently built now and with extra cards including a sound card Graphics card and network card. The plastic has now been restored to bright white and I did have a quick play of FreeDoom (FreeDOS OS Installed). Its been in storage for over a year now and I will be looking over it again soon.</i>
 </td></tr></table>
 

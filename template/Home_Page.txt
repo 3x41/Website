@@ -1,3 +1,6 @@
+<h1 style="background-color:#FF0000;"><center><img src="assets/logo.png"></center></h1>
+
+
 <div class="container">
 
 <h1>Hello ! Welcome to the website !</h1>
@@ -13,5 +16,43 @@
 
 <p>I also sometimes upload videos to YouTube. <br></p>
 <p><a href="https://www.youtube.com/user/TheExal81"><img src="assets/icons8-youtube-squared-32.png"> Click here to view the channel.</a></p>
+
+<table class="w3-table-all">
+    <thead>
+      <tr class="w3-red">
+        <th>Area</th>
+        <th>Stats</th>
+
+      </tr>
+    </thead>
+    <tr>
+      <td>Created Applications</td>
+      <td>27+</td>
+
+    </tr>
+    <tr>
+      <td>Currently Owned Computers</td>
+      <td>26+</td>
+
+    </tr>
+    <tr>
+      <td>Created Games</td>
+      <td>32+</td>
+
+    </tr>
+        <tr>
+      <td>Created Music</td>
+      <td>32+</td>
+
+    </tr>
+        <tr>
+      <td>Created Mini Projects</td>
+      <td>18+</td>
+
+    </tr>
+  </table>
+
+
+
 
 </div>

@@ -1,3 +1,4 @@
+
 ##### This is the computers database
 ##### Table is as follows:
 ##### Name of computer   ^   TEXT 				^ IMAGE 	^ YEAR 			^ Owned ^
@@ -93,11 +94,11 @@ PlayStation 4^Its taken a while, but I now own one.^assets/Computers/ps4.jpeg^20
 
 Evercade Handheld^A good way to play classic games, its nice that there are new releases happening at the moment. Upscales nicely when plugged into the TV.^assets/Computers/ev.jpeg^2021^Yes^ 
 
-###Intellivision^Plug and Play 25 game unit that runs on batterys. Buying the orginal would cost too much and this is a great alternative. The games are ok.^assets/Computers/intelliv.jpg^2021^Yes^ 
+Intellivision^Plug and Play 25 game unit that runs on batterys. Buying the orginal would cost too much and this is a great alternative. The games are ok.^assets/Computers/intelliv.jpg^2021^Yes^ 
  
-###Retro Game^Brought to see what it was about, costing about £5, this would of been great 20 years ago, it hasnt dated well at all. Still its intresting as its so small and has quite a few games on it.^assets/Computers/retro.jpg^2021^Yes^
+Retro Game^Brought to see what it was about, costing about £5, this would of been great 20 years ago, it hasnt dated well at all. Still its intresting as its so small and has quite a few games on it.^assets/Computers/retro.jpg^2021^Yes^
 
-###N64^Had to re-collect and have about 20 games for it. Great system and great fun still. I cant get over how fast loading time is with a cartridge system.^assets/Computers/n64_2.jpg^2021^Yes^ 
+N64^Had to re-collect and have about 20 games for it. Great system and great fun still. I cant get over how fast loading time is with a cartridge system.^assets/Computers/n64_2.jpg^2021^Yes^ 
 
 
 #########<p>I have had many, many PCs over the years. But these are the ones that I started with and hold a lot of memories for me.</p>

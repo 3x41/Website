@@ -27,7 +27,7 @@ def ReadFile():
         #xdb = db.readline()
         g = ""
         #print(xdb)
-        if len(xdb)>1:
+        if len(xdb)>5:
             first_chars = xdb[0:3]
             if first_chars != "###":      
                 g = xdb.split("^")
@@ -63,7 +63,7 @@ def ReadFileComputers():
         #xdb = db.readline()
         g = ""
         #print(xdb)
-        if len(xdb)>1:
+        if len(xdb)>5:
             first_chars = xdb[0:3]
             if first_chars != "###":      
                 g = xdb.split("^")
@@ -106,7 +106,7 @@ def ReadFileMusic():
         #xdb = db.readline()
         g = ""
         #print(xdb)
-        if len(xdb)>1:
+        if len(xdb)>5:
             first_chars = xdb[0:3]
             if first_chars != "###":      
                 g = xdb.split("^")
@@ -144,7 +144,7 @@ def ReadFileApps():
         #xdb = db.readline()
         g = ""
         #print(xdb)
-        if len(xdb)>1:
+        if len(xdb)>5:
             first_chars = xdb[0:3]
             if first_chars != "###":      
                 g = xdb.split("^")
@@ -185,7 +185,7 @@ def ReadFileProjects():
         #xdb = db.readline()
         g = ""
         #print(xdb)
-        if len(xdb)>1:
+        if len(xdb)>5:
             first_chars = xdb[0:3]
             if first_chars != "###":      
                 g = xdb.split("^")
@@ -220,6 +220,7 @@ ReadFile() #Games
 ReadFileProjects()
 ReadFileApps()
 ReadFileMusic()
+ReadFileComputers()
 
 MergeTemplateHome("index")  
 
