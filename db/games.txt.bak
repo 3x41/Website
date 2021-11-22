@@ -2,8 +2,6 @@
 ##### Table is as follows:
 ##### Name of Game   ^   Programmed in   ^   year   ^   image path   ^   text   ^   download link   ^   video link
 ##### 0                  1                   2          3                4          5                   6
-Falling Food^2021^GDevelop5^assets/Games/FallFood.png^Collect the falling food and avoiding anything else sharp. This was an intresting take for the main screen as the start game is playing the game. This game is available to play on itch.io^none^none^
-
 FishFish^2021^Love2D^assets/Games/FishFish.png^After playing SharkShark! I wanted to make my own version of the game after finding out the Amico system was delayed again. This is the most advanced Love2d Game I've done due to all the things going on in it. The game assets are all from opengameart website.
 
 Dodge Challenge^2021^Love2D^assets/Games/DodgeChall5.png^I was trying to get back into Lua coding and ended up creating a isometic version of dodge challenge. I did try and use PyGame Zero but I just could not adjust the parts I needed to get it to work. I enjoyed working with the Love2D engine. The game assets are all from opengameart website.

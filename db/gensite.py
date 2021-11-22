@@ -217,10 +217,10 @@ def MergeTemplateHome(PassedFileName):
 
 #RUN#
 ReadFile() #Games
-ReadFileProjects()
-ReadFileApps()
-ReadFileMusic()
-ReadFileComputers()
+#ReadFileProjects()
+#ReadFileApps()
+#ReadFileMusic()
+#ReadFileComputers()
 
 MergeTemplateHome("index")  
 
