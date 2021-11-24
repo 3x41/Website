@@ -40,7 +40,7 @@
     <div style="margin-left:25%" class="w3-padding-large">
 <h1>Games</h1>
 <p>Currently there are no downloads at this moment as I am currently creating a menu system so you only have to download a pack of games.</p>
-<table><tr><td><img src="assets/Games/FallingFood.png" class="w3-hover-opacity w3-border" alt="Image">
+<table><tr><td><img src="assets/Games/FallFood.png" class="w3-hover-opacity w3-border" alt="Image">
 </td><td class="w3-padding-large">
 <h3>Falling Food (2021)</h3>
 <i class="w3-tag">Coded using: GDevelop5</i><br>
